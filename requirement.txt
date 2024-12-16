@@ -1,8 +1,11 @@
-tensorflow==2.18.0
 pandas
 numpy
 scikit-learn
 matplotlib
 tensorboard
 streamlit
-python3.9
+python3.11
+tensorflow-cpu==2.12.0
+streamlit
+
+
