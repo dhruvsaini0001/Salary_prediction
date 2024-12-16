@@ -5,3 +5,4 @@ scikit-learn
 matplotlib
 tensorboard
 streamlit
+python3.9
